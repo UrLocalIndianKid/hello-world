@@ -1,9 +1,9 @@
 <xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="dHj?[Urdn9_+utW4^;I:" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="5OvAOg{0@QL0[yeoY,bV"><field name="LEDS">`
-        # . . . # 
-        . # . # . 
-        . . # . . 
-        . # . # . 
-        # . . . #
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
         `</field></block></statement></block><block type="device_button_event" id="8P6uA*;Xoue}+rncSK/t" x="224" y="14"><field name="NAME">Button.A</field></block><block type="device_show_leds" id="S#nPi0PtzR7uK^}*QZ5p" disabled="true" x="503" y="128"><field name="LEDS">`
         # # . . # 
         . . . # . 
