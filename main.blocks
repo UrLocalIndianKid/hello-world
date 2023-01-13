@@ -1,13 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="dHj?[Urdn9_+utW4^;I:" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="5OvAOg{0@QL0[yeoY,bV"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="8P6uA*;Xoue}+rncSK/t" x="47" y="213"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="playMelody" id="0FCy^?IK?Q%7GOQk7[//"><value name="melody"><shadow type="melody_editor" id="zr_c)dQ_D9O_[-FKz4sI"><field name="melody">"C D E F G A B C5 "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="Zk:]56aRIT^[mu~qZ]3X"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></statement></block><block type="device_show_leds" id="5OvAOg{0@QL0[yeoY,bV" disabled="true" x="709" y="679"><field name="LEDS">`
+        # . # # # 
         # # # # # 
-        # # # # # 
-        # # # # # 
+        # # # . # 
         # # # # # 
         # # # # #
-        `</field></block></statement></block><block type="device_button_event" id="8P6uA*;Xoue}+rncSK/t" x="224" y="14"><field name="NAME">Button.A</field></block><block type="device_show_leds" id="S#nPi0PtzR7uK^}*QZ5p" disabled="true" x="503" y="128"><field name="LEDS">`
-        # # . . # 
-        . . . # . 
-        . . # . . 
-        . . . # . 
-        # . . . #
         `</field></block></xml>
